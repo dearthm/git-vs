@@ -2,7 +2,7 @@
 <asp:Content ID="Content1" ContentPlaceHolderID="MainContent" runat="server">
 
     <div class="jumbotron text-center ">
-        <p>Sermons</p>
+        <p>Sermons for all</p>
 
     </div>
 
